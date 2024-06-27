@@ -1,4 +1,3 @@
-0-classroom.js
 export default class HolbertonCourse {
   constructor(name, length, students) {
     if (typeof name !== 'string') {
