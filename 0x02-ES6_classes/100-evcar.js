@@ -1,4 +1,3 @@
-0-classroom.js
 /* eslint-disable */
 import Car from './10-car';
 
