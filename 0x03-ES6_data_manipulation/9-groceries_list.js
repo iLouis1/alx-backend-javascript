@@ -1,4 +1,3 @@
-0-get_list_students.js
 const groceriesList = () => {
   const res = new Map();
   const objetos = {
