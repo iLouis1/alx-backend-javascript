@@ -1,4 +1,3 @@
-0-get_list_students.js
 const updateUniqueItems = (map) => {
   if (map instanceof Map) {
     for (const [key, value] of map.entries()) {
