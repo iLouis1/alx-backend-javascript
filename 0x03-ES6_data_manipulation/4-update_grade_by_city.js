@@ -1,4 +1,3 @@
-0-get_list_students.js
 export default function updateStudentGradeByCity(students, city, newGrades) {
   if (!Array.isArray(students) || !Array.isArray(newGrades)) {
     return [];
